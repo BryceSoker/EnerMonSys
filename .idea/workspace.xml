@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75bd5d4e-59af-484e-b8b7-a5b7f2b536e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/EnerMonSys.iml" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/ClientSend.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Commands.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Correction/CorrectionAlgorithm.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Correction/CorrectionObject.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Correction/DownlinkMsg.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Correction/TPToken.dat" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Correction/devices.json" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/FlaskApp.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/FlaskWebServer.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/IncompleteObjects.json" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Alerts.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Class.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Date.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Device.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Reading.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Reading_Temperature.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Seasons_and_Holidays.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/SensorData.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/MySqlDatabase/Time.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/ReadingIncomplete.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/Requests.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/SensorData.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/TPToken.dat" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/TestEntries.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/TestMysql.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/WiFiWebServer.py" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/cert.pem" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/devices.json" />
-      <change type="NEW" beforePath="" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/key.pem" />
+    <list default="true" id="75bd5d4e-59af-484e-b8b7-a5b7f2b536e0" name="Default" comment="First Commit">
+      <change type="MODIFICATION" beforePath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/vcs.xml" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/workspace.xml" afterPath="D:/Users/DiogoSantos/Desktop/EnerMonSys/.idea/workspace.xml" />
     </list>
     <ignored path="ServerWiFiPc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WiFiWebServer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WiFiWebServer.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Users/DiogoSantos/Desktop/EnerMonSys/WiFiWebServer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="573">
@@ -65,6 +32,16 @@
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cert.pem" pinned="false" current-in-tab="true">
+        <entry file="file://D:/Users/DiogoSantos/Desktop/EnerMonSys/cert.pem">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -196,7 +173,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Users/DiogoSantos/Desktop/EnerMonSys" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -417,6 +394,14 @@
       <option name="presentableId" value="Default" />
       <updated>1560330852944</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1568827907373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568827907373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -454,7 +439,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -651,6 +637,14 @@
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/DiogoSantos/Desktop/EnerMonSys/cert.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
